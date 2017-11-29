@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='9.75in' height='9.75in' viewBox='0 0 9.75 9.75'>
+<metadata>
+<cutobject type="profile" unit="imperial" name="profile%201" safetyheight="0.25" stocksurface="0" targetdepth="-0.1" stepover="NaN" stepdown="0.1" feedrate="10" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="true" direction="1" >
+<path>path1</path>
+<path>path2</path>
+<path>path3</path>
+<path>path4</path>
+<path>path5</path>
+<path>path6</path>
+<path>path7</path>
+<path>path8</path>
+</cutobject>
+<cutobject type="followpath" unit="imperial" name="follow%20path%202" safetyheight="0.25" stocksurface="0" targetdepth="-0.1" stepover="NaN" stepdown="0.1" feedrate="10" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="true" direction="1" >
+<path>path0</path>
+</cutobject>
+<cutobject type="profile" unit="imperial" name="profile%203" safetyheight="0.25" stocksurface="0" targetdepth="-0.8" stepover="NaN" stepdown="0.15" feedrate="10" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="true" direction="1" >
+<path>path0</path>
+</cutobject>
+</metadata>
+
+<path id='path0' stroke='black' fill='none' stroke-width='0.02' d='M8.25 2.5 L8.75 2.5 L8.75 2 L9.25 2 L9.25 1.5 L9.75 1.5 L9.75 1 L9.75 0.5 L9.75 0 L9.25 0 L8.75 0 L8.25 0 L8.25 0.5 L7.75 0.5 L7.75 1 L7.25 1 L7.25 1.5 L6.75 1.5 L6.75 2 L6.25 2 L6.25 2.5 L5.75 2.5 L5.75 3 L5.25 3 L5.25 3.5 L4.75 3.5 L4.75 4 L4.25 4 L4.25 4.5 L3.75 4.5 L3.75 5 L3.25 5 L3.25 5.5 L2.75 5.5 L2.75 5 L2.25 5 L2.25 4.5 L1.75 4.5 L1.25 4.5 L1.25 5 L1.25 5.5 L1.75 5.5 L1.75 6 L1.75 6.5 L2.25 6.5 L2.25 7 L1.75 7 L1.75 7.5 L1.25 7.5 L1.25 8 L0.75 8 L0.25 8 L0.25 8.5 L0.25 9 L0.25 9.5 L0.75 9.5 L1.25 9.5 L1.75 9.5 L1.75 9 L1.75 8.5 L2.25 8.5 L2.25 8 L2.75 8 L2.75 7.5 L3.25 7.5 L3.25 8 L3.75 8 L4.25 8 L4.25 8.5 L4.75 8.5 L5.25 8.5 L5.25 8 L5.25 7.5 L4.75 7.5 L4.75 7 L4.25 7 L4.25 6.5 L4.75 6.5 L4.75 6 L5.25 6 L5.25 5.5 L5.75 5.5 L5.75 5 L6.25 5 L6.25 4.5 L6.75 4.5 L6.75 4 L7.25 4 L7.25 3.5 L7.75 3.5 L7.75 3 L8.25 3 L8.25 2.5 Z'/>
+<path id='path1' stroke='black' fill='none' stroke-width='0.02' d='M3.75 5.5 L4.25 5.5 L4.25 6 L3.75 6 L3.75 5.5 Z'/>
+<path id='path2' stroke='black' fill='none' stroke-width='0.02' d='M4.5 4.75 L5 4.75 L5 5.25 L4.5 5.25 L4.5 4.75 Z'/>
+<path id='path3' stroke='black' fill='none' stroke-width='0.02' d='M5.25 4 L5.75 4 L5.75 4.5 L5.25 4.5 L5.25 4 Z'/>
+<path id='path4' stroke='black' fill='none' stroke-width='0.02' d='M6 3.25 L6.5 3.25 L6.5 3.75 L6 3.75 L6 3.25 Z'/>
+<path id='path5' stroke='black' fill='none' stroke-width='0.02' d='M6.75 2.5 L7.25 2.5 L7.25 3 L6.75 3 L6.75 2.5 Z'/>
+<path id='path6' stroke='black' fill='none' stroke-width='0.02' d='M7.5 1.75 L8 1.75 L8 2.25 L7.5 2.25 L7.5 1.75 Z'/>
+<path id='path7' stroke='black' fill='none' stroke-width='0.02' d='M8.25 1 L8.75 1 L8.75 1.5 L8.25 1.5 L8.25 1 Z'/>
+<path id='path8' stroke='black' fill='none' stroke-width='0.02' d='M3.02 6.27 L3.52 6.27 L3.52 6.77 L3.02 6.77 L3.02 6.27 Z'/>
+</svg>
